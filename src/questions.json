@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "question": "What is used in ReactJs to increase performance",
+    "optionone": "original DOM",
+    "optiontwo": "virtual DOM",
+    "optionthree": "both a and b",
+    "optionfour": "none of these",
+    "answer": "virtual DOM"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following below act as the input of a class-based component?",
+    "optionone": "class",
+    "optiontwo": "state",
+    "optionthree": "render",
+    "optionfour": "props",
+    "answer": "props"
+  },
+  {
+    "id": 3,
+    "question": "Default port where webpack-server will run",
+    "optionone": "8080",
+    "optiontwo": "3333",
+    "optionthree": "3030",
+    "optionfour": "6020",
+    "answer": "8080"
+  },
+  {
+    "id": 4,
+    "question": "What is the declarative way to render a dynamic list of components based on values in an array",
+    "optionone": "Using the reduce array method",
+    "optiontwo": "Using the <Each /> component",
+    "optionthree": "Using the Array.map() method",
+    "optionfour": "With a for/while loop",
+    "answer": "Using the Array.map() method"
+  },
+  {
+    "id": 5,
+    "question": "What is ReactJs?",
+    "optionone": "Server side framework",
+    "optiontwo": "A Library for building interaction interfaces",
+    "optionthree": "Client Side Framework",
+    "optionfour": "None of the above",
+    "answer": "A Library for building interaction interfaces"
+  },
+  {
+    "id": 6,
+    "question": "Who develop react.js?",
+    "optionone": "Apple",
+    "optiontwo": "Facebook",
+    "optionthree": "Twitter",
+    "optionfour": "Google",
+    "answer": "Facebook"
+  },
+  {
+    "id": 7,
+    "question": "What are props into other components",
+    "optionone": "Both A and C",
+    "optiontwo": "Injected",
+    "optionthree": "None of the above",
+    "optionfour": "Method",
+    "answer": "Method"
+  },
+  {
+    "id": 8,
+    "question": "ReactJs cover",
+    "optionone": "User Interface layer in an application",
+    "optiontwo": "Data layer in an application",
+    "optionthree": "Both A and B",
+    "optionfour": "None of the above",
+    "answer": "User Interface layer in an application"
+  },
+  {
+    "id": 9,
+    "question": "Who is the father of React.js?",
+    "optionone": "Jordan mike",
+    "optiontwo": "Nike John",
+    "optionthree": "Jordan Walke",
+    "optionfour": "Nile",
+    "answer": "Jordan Walke"
+  },
+  {
+    "id": 10,
+    "question": "React.js in MVC is",
+    "optionone": "Model",
+    "optiontwo": "Middleware",
+    "optionthree": "Method",
+    "optionfour": "Controller",
+    "answer": "Controller"
+  },
+  {
+    "id": 11,
+    "question": "What is state in react?",
+    "optionone": "A prement storage",
+    "optiontwo": "Internal storage of the component",
+    "optionthree": "Both A and B",
+    "optionfour": "None of the above",
+    "answer": "Internal storage of the component"
+  },
+  {
+    "id": 12,
+    "question": "Everything in react is",
+    "optionone": "Component",
+    "optiontwo": "Model",
+    "optionthree": "Method",
+    "optionfour": "Package",
+    "answer": "Component"
+  },
+  {
+    "id": 13,
+    "question": "At the highest level, React components have lifecycle events that fall into",
+    "optionone": "State/Property Updates",
+    "optiontwo": "Initialization",
+    "optionthree": "Destruction",
+    "optionfour": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "id": 14,
+    "question": "React component can return how many components",
+    "optionone": "one",
+    "optiontwo": "two",
+    "optionthree": "mutliple",
+    "optionfour": "three",
+    "answer": "mutliple"
+  },
+  {
+    "id": 15,
+    "question": "Babel is ",
+    "optionone": "Compiler",
+    "optiontwo": "Transpilar",
+    "optionthree": "None of the above",
+    "optionfour":"Both A and B",
+    "answer": "Both A and B"
+  }
+]
